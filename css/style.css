@@ -154,6 +154,8 @@ h6 {
 #header .logo h1 a:hover {
   color: #00366f;
   text-decoration: none;
+  font-size: 72px;
+  font-weight: 700;
 }
 
 #header .logo img {
